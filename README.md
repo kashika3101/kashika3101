@@ -1,9 +1,7 @@
 <h1 align="center">Hi Devs! 👋, I'm Kashika Jain</h1>
-<h3 align="center">A Sophomore and a passionate software developer from India with keen interests in Full stack development.</h3>
+<h3 align="center">A Sophomore and a passionate software developer from India.I have keen interests in Full stack development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashika3101&label=Profile%20views&color=0e75b6&style=flat" alt="kashika3101" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashika3101" alt="kashika3101" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs,C++,Python,Node.js**
 
