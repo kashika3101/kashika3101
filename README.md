@@ -1,23 +1,36 @@
-<h1 align="center">Hi Devs! 👋, I'm Kashika Jain</h1>
-<h3 align="center">A Sophomore and a passionate software developer from India.I have keen interests in Full stack development.</h3>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kashika!
+<a href="https://linkedin.com/in/kashika jain">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="mailto:kashikajain3101@gmail.com">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashika3101&label=Profile%20views&color=0e75b6&style=flat" alt="kashika3101" /> </p>
+<br />
+<h3> About Me  🚀 </h3>
+<p>
+🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
+</p><p>
+📎 In my free time I love to learn about latest technologies and work on my logic building skills.
+</p><p>
+🌱 Enthusiast in Open Source, Web Development and Software engineering profiles.</p>
+<p>
+🤔Figuring out newer technologies and developing software solutions and quick hacks.</p>
+<p>
 
-- 🌱 I’m currently learning **ReactJs,C++,Python,Node.js**
+  <br>
 
-- 💬 Ask me about **react,javascript ES6,bootstrap,DSA**
+- 💻  &nbsp; Data Structures & Algorithms | C++ | Javascript   
+- 🌐  &nbsp; HTML | CSS | JavaScript
+- ☁  &nbsp; Operating System | Database | SQL
+- 🔧  &nbsp; Visual Studio code | Git | Github
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kashika jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kashika jain" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kashika_31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="kashika_31" height="30" width="40" /></a>
+
+</br>
+
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
+<img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=kashika3101&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
+<img width="470px" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kashika3101&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashika3101&show_icons=true&locale=en&layout=compact" alt="kashika3101" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashika3101&show_icons=true&locale=en" alt="kashika3101" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashika3101&" alt="kashika3101" /></p>
