@@ -5,6 +5,10 @@
 <a href="mailto:kashikajain3101@gmail.com">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="https://www.leetcode.com/kashika_31">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"  />
+</a>
+
 
 <br />
 <h3> About Me  🚀 </h3>
